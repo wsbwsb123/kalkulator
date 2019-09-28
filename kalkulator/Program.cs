@@ -12,6 +12,13 @@ namespace kalkulator
         {
             while(true)
             {
+<<<<<<< HEAD
+=======
+                Console.WriteLine("0. Exit");
+                Console.WriteLine("1. ADD");
+                Console.WriteLine("2. DIFF");
+                Console.WriteLine("3. MUL");
+>>>>>>> d1d45ea... Add mul option to menu
                 int menuOption = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("1. add");  
                 if (menuOption == 0)
