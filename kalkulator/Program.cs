@@ -10,6 +10,10 @@ namespace kalkulator
     {
         static void Main(string[] args)
         {
+            while(true)
+            {
+
+            }
         }
     }
 }
